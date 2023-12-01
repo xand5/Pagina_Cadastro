@@ -1,0 +1,128 @@
+
+body{
+    background-color:  #0071b5;
+    font-family: 'Roboto';
+    font-size: bold;
+    margin-bottom: 0px;
+}
+
+
+a:link 
+{
+    font-size: 16px;
+}
+   
+a:hover 
+{
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-style: blue;
+}
+
+a:active
+{
+    color: #010252;
+}
+
+a.blue:visited {
+    color:#010252;
+}
+
+nav
+{
+    background-color: #0071b5;
+    margin-right: 10px;
+    margin-left: 10px;
+    align-content: right;
+}
+
+nav div{
+    background-color: #0071b5;  
+}
+
+.navSmall{
+    background-color: #0071b5;
+    max-height: 60px;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 2px;
+}
+
+.navSmall img{
+    display: inline;
+}
+
+.Copy{
+    font-family: 'Roboto';
+    font-size: 12px;
+    display: inline-block;
+}
+
+.minCopy{
+    font-family: 'Roboto';
+    font-size: 10px;
+}
+
+footer span{
+    
+    padding: 0px;
+    margin: 0px;
+}
+footer{
+    padding-top: 4px;
+    padding-bottom: 0px;
+    background-color: #0382D1;
+    padding-bottom: 0px;
+}
+
+.contato{
+    color: #010253;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 38px;
+    display: block;
+    background-color: #0071b5;
+}
+
+.missao{
+    color: #010253;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    display: block;
+    background-color: #0071b5;
+}
+.missaoTexto
+{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration-color:white;
+    line-height: 35px;
+}
+
+.inicio{
+    color: white;
+    font-family: Roboto;
+    font-size: 63px;
+    font-weight: bold;
+    display: block;
+    background-color: #0071b5;
+    line-height: 65px;
+}
+.inicioTexto
+{
+    font-family: Roboto;
+    font-size: 63px;
+    font-weight: bold;
+    text-decoration-color:white;
+    line-height: 65px;
+}
+
+span
+{
+    color:white;
+    font-family: Roboto;
+    font-size: bold;
+    font-size: 23px;
+}
